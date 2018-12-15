@@ -1,0 +1,24 @@
+.card {
+  position: relative;
+  display: flex;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border-radius: .25rem;
+  width: 365px;
+  margin: 25px;
+  padding: 5px;
+  width: 40%;
+  border: 1px solid;
+}
+
+.data {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+a {
+  padding: 7px;
+}

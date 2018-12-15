@@ -1,0 +1,17 @@
+<app-header></app-header>
+
+<div class="container-fluid">
+  <div class="form-group">
+    <input type="search" class="form-control" placeholder="search Note">
+  </div>
+  <div class="data flex-container">
+    <div class="card" *ngFor="let data of admin_data">
+      <div class="container">
+        <h4><b>{{data?.heading}}</b></h4>
+        <p>{{data?.text}}</p>
+        <a><i class="fa fa-edit"></i></a>
+        <a><i class="fa fa-trash"></i></a>
+      </div>
+    </div>
+  </div>
+</div>

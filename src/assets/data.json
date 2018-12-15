@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "data": [{
+      "id": 1,
+      "heading": "Title",
+      "text": "The quick brown fox jumps over a lazy dog. Djs flock by when MTV ax quiz prog.Junk MTV quiz graced by fox whelps Brawdsjog, flick quartz,vex nymphos, Waltz bad. "
+    },
+    {
+      "id": 2,
+      "heading": "Title",
+      "text": "The quick brown fox jumps over a lazy dog. Djs flock by when MTV ax quiz prog.Junk MTV quiz graced by fox whelps Brawdsjog, flick quartz,vex nymphos, Waltz bad. "
+    },
+    {
+      "id": 3,
+      "heading": "Title",
+      "text": "The quick brown fox jumps over a lazy dog. Djs flock by when MTV ax quiz prog.Junk MTV quiz graced by fox whelps Brawdsjog, flick quartz,vex nymphos, Waltz bad. "
+    },
+    {
+      "id": 4,
+      "heading": "Title",
+      "text": "The quick brown fox jumps over a lazy dog. Djs flock by when MTV ax quiz prog.Junk MTV quiz graced by fox whelps Brawdsjog, flick quartz,vex nymphos, Waltz bad. "
+    },
+    {
+      "id": 5,
+      "heading": "Title",
+      "text": "The quick brown fox jumps over a lazy dog. Djs flock by when MTV ax quiz prog.Junk MTV quiz graced by fox whelps Brawdsjog, flick quartz,vex nymphos, Waltz bad. "
+    },
+    {
+      "id": 6,
+      "heading": "Title",
+      "text": "The quick brown fox jumps over a lazy dog. Djs flock by when MTV ax quiz prog.Junk MTV quiz graced by fox whelps Brawdsjog, flick quartz,vex nymphos, Waltz bad. "
+    }
+  ],
+  "error": {
+    "error_code": 301,
+    "error_message": [
+      "Not Authorized to Access Data"
+    ]
+  }
+}

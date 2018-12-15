@@ -1,0 +1,11 @@
+.navbar-inverse {
+  background-color: #4851a7 !important;
+  background-image: none !important;
+}
+
+.user {
+    top:10px;
+    right:8px;
+    position: absolute;
+    color:#fff;
+}
